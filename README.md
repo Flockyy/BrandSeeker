@@ -176,8 +176,6 @@ This project is built upon [YOLOv5](https://github.com/ultralytics/yolov5) by Ul
 
 <div align="center">
 
-**Made with  for video analytics and brand monitoring**
-
 [ Back to Top](#-brandseeker)
 
 </div>
